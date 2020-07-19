@@ -1,2 +1,2 @@
 # instagramdl
-a simple instagram app with download button below each post
+a simple instagram app with a download button below each post.
